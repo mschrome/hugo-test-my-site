@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文章 on My New Hugo Project</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in 文章 on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;这是我的第一篇 Hugo 博客文章！&lt;/p&gt;&#xA;&lt;h2 id=&#34;hugo-简介&#34;&gt;Hugo 简介&lt;/h2&gt;&#xA;&lt;p&gt;Hugo 是一个用 Go 语言编写的静态网站生成器，以极快的构建速度著称。&lt;/p&gt;&#xA;&lt;h3 id=&#34;特点&#34;&gt;特点&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;构建速度极快&lt;/li&gt;&#xA;&lt;li&gt;支持 Markdown 写作&lt;/li&gt;&#xA;&lt;li&gt;丰富的主题生态&lt;/li&gt;&#xA;&lt;li&gt;灵活的模板系统&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
